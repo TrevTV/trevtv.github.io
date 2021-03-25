@@ -9,7 +9,9 @@ Todo
 ## Changelogs
 {% for version in site.data.ieytd_versions %}
 #### {{version[0]}}
-    {% for log in version %}
-        - {{log}}
-    {% endfor %}
+    - {{version[1]}}
+    - {{version[2]}}
+    - {{version[3]}}
+    - {{version[4]}}
+    - {{version[5]}}
 {% endfor %}
