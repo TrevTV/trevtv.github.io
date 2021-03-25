@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-{% if page.no_design == null %}
   <head>
     <meta charset="UTF-8">
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -24,7 +23,4 @@
         {{ content }}
       </main>
   </body>
-{% else %}
-<p>{{page.text}}</p>
-{% endif %}
 </html>
