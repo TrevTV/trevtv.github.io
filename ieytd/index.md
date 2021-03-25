@@ -12,7 +12,7 @@ Todo
     {% for log in version %}
         {% if log != version[0] %}
         
-            - {{log[0]}}
+            - {{log}}
         {% endif %}
     {% endfor %}
 {% endfor %}
