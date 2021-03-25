@@ -8,8 +8,5 @@ Todo
 
 ## Changelogs
 
-#### 0.1.1
- - Added update notices
-
 #### 0.1.0
- - Inital beta release
+ - Initial beta release
