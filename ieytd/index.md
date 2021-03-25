@@ -7,8 +7,9 @@ show_ieytd_download: true
 Todo
 
 ## Changelogs
-{% for version in site.data.ieytd_versions %}
-#### {{version[0]}}
-    - {{version[1]}}
-    - {{version[2]}}
-{% endfor %}
+
+#### 0.1.1
+ - Added update notices
+
+#### 0.1.0
+ - Inital beta release
