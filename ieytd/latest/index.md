@@ -1,5 +1,3 @@
 ---
-layout: text_only
+layout: latest_ieytd_ver
 ---
-
-{{ site.ieytd.latest_version }}
