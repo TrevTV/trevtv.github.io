@@ -1,4 +1,6 @@
 ---
 layout: text_only
-text: 0.1.0
+text: !IEYTD_VERSION!
 ---
+
+{{ page.text | replace: '!IEYTD_VERSION!', site.ieytd.latest_version }}
