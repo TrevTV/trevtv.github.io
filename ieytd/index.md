@@ -11,7 +11,8 @@ Todo
 #### {{version[0]}}
     {% for log in version %}
         {% if log != version[0] %}
-            - {{log}}
+        
+            - {{log[0]}}
         {% endif %}
     {% endfor %}
 {% endfor %}
