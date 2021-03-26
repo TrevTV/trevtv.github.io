@@ -5,7 +5,7 @@ show_ieytd_download: true
 
 ## Installation
 ### Video Tutorial
-[![](https://i.imgur.com/YKbmnef.png)](http://www.youtube.com/watch?v=XtIIeOzcORs "")
+[![Video Tutorial](https://i.imgur.com/YKbmnef.png)](http://www.youtube.com/watch?v=XtIIeOzcORs "I Expect You To Die - bHaptics Integration Mod Installation")
 
 ### Text Tutorial
 1. Download the latest MelonLoader installer from [here](https://github.com/LavaGang/MelonLoader.Installer/releases/)
