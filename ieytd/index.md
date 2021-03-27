@@ -27,5 +27,12 @@ show_ieytd_download: true
 
 ## Changelogs
 
+#### 0.1.1
+ - Added heartbeat effects for the following
+    - Neurotoxin
+    - Radioactivity
+    - Fire
+ - Extended explosion effects to the arm and head
+
 #### 0.1.0
  - Initial beta release
