@@ -1,5 +1,3 @@
 ---
-layout: text_only
+layout: main_page
 ---
-
-hello
