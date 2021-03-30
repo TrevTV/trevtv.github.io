@@ -3,6 +3,8 @@ title: I Expect You To Die - bHaptics Integration
 show_ieytd_download: true
 ---
 
+### [Support me on Ko-fi](https://ko-fi.com/trevtv)
+
 ## Installation
 ### Video Tutorial
 [![Video Tutorial](https://i.imgur.com/YKbmnef.png)](http://www.youtube.com/watch?v=XtIIeOzcORs "I Expect You To Die - bHaptics Integration Mod Installation")
