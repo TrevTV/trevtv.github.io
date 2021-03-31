@@ -5,6 +5,10 @@ show_ieytd_download: true
 
 ### [Support me on Ko-fi](https://ko-fi.com/trevtv)
 
+## Notices
+- This mod has not been tested on the Oculus Store version of the game, if you test it, please DM me on Discord at `trev#1477` and tell me how it worked.
+- This mod is currently unavailable for the official Oculus Quest version of the game, but still works for Quest + Link or wireless streaming such as Virtual Desktop or ALVR
+
 ## Installation
 ### Video Tutorial
 [![Video Tutorial](https://i.imgur.com/YKbmnef.png)](http://www.youtube.com/watch?v=XtIIeOzcORs "I Expect You To Die - bHaptics Integration Mod Installation")
@@ -12,9 +16,7 @@ show_ieytd_download: true
 ### Text Tutorial
 1. Download the latest MelonLoader installer from [here](https://github.com/LavaGang/MelonLoader.Installer/releases/)
 2. Open the installer, go to settings, and make sure that `Show ALPHA Pre-Releases` is checked
-3. In Steam, right click the game, and under Manage, select `Browse Local Files`
-
-![](https://i.imgur.com/fK4N0SF.png)
+3. In Steam, right click the game, and under Manage, select `Browse Local Files` ![](https://i.imgur.com/fK4N0SF.png)
 
 4. In the explorer window that appears, copy the path by right clicking the address bar and press `Copy address as text`
 5. In the installer, press the SELECT button in the Automated section.
