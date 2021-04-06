@@ -37,6 +37,9 @@ The mod can be installed automatically through the bHaptics Portal, available th
 
 ## Changelogs
 
+#### 1.0.0
+ - Initial Release
+
 #### 0.1.1
  - Added heartbeat effects for the following
     - Neurotoxin
