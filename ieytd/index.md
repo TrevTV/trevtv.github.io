@@ -3,7 +3,7 @@ title: I Expect You To Die - bHaptics Integration
 show_ieytd_download: true
 ---
 
-### [Support me on Ko-fi](https://ko-fi.com/trevtv)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S244CYE)
 
 ## Notices
 - This mod has not been tested on the Oculus Store version of the game, if you test it, please DM me on Discord at `trev#1477` and tell me how it worked.
