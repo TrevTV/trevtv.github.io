@@ -11,7 +11,9 @@
 	.st5{display:inline;fill:#FFFFFF;}
 </style>
 <g id="Background">
-	<path id="Rectangle" class="st0" d="M8,0h207c4.4,0,8,3.6,8,8v14c0,4.4-3.6,8-8,8H8c-4.4,0-8-3.6-8-8V8C0,3.6,3.6,0,8,0z"/>
+	<g>
+		<path class="st0" d="M8,0h207c4.4,0,8,3.6,8,8v14c0,4.4-3.6,8-8,8H8c-4.4,0-8-3.6-8-8V8C0,3.6,3.6,0,8,0z"/>
+	</g>
 </g>
 <g id="Cup" class="st1">
 	<desc>Created with Sketch.</desc>
