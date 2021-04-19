@@ -4,6 +4,7 @@ show_ieytd_download: true
 ---
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S244CYE)
+[![discord](https://trevtv.github.io/assets/images/discordbutton_sm.svg)](https://discord.gg/tsbFPERwjS)
 
 ## Notices
 - This mod has not been tested on the Oculus Store version of the game, if you test it, please DM me on Discord at `trev#1477` and tell me how it worked.
@@ -12,7 +13,7 @@ show_ieytd_download: true
 ## Installation
 
 ### Automatic
-The mod can be installed automatically through the bHaptics Portal, available through the Player.
+ - TODO
 
 ### Manual
 
